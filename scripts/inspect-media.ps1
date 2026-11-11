@@ -50,4 +50,3 @@ $sessions = @(
     }
 )
 ConvertTo-Json -InputObject $sessions -Depth 4
-
